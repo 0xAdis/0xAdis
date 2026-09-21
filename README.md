@@ -1,69 +1,62 @@
 <div align="center">
 
-# 0xAdis
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=0xAdis&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff&color=0:0d1117,50:161b22,100:238636" width="100%"/>
 
-### Building software for accounting, finance & audit.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2200&pause=700&color=58A6FF&center=true&vCenter=true&width=800&lines=%24+whoami;0xAdis;%24+./build-something-useful;Accounting+%C3%97+Automation+%C3%97+Software;Turning+boring+work+into+tools." />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Automating+boring+financial+work;Building+local-first+tools;Turning+manual+workflows+into+software;Accounting+%C3%97+Automation+%C3%97+AI" />
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=0xAdis&label=PROFILE+VIEWS&color=58A6FF&style=for-the-badge" />
 
 </div>
 
-<br>
+---
 
 ```text
-I build practical software around the work people
-do every day in accounting, finance, and audit.
-
-Less repetitive work.
-More automation.
-Better workflows.
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                     │
+│   $ ./0xAdis                                                        │
+│                                                                     │
+│   booting...                                                        │
+│   ████████████████████████████████████████████████ 100%             │
+│                                                                     │
+│   [✓] accounting                                                    │
+│   [✓] automation                                                    │
+│   [✓] software                                                      │
+│   [✓] curiosity                                                     │
+│                                                                     │
+│   status: BUILDING                                                  │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
 ```
 
-## Building
+## `> what_is_this`
 
-🧾 **Accounting Tools**
-Tools for financial data, Excel workflows, reconciliation, and repetitive accounting tasks.
+I build **practical software for accounting, finance, and audit workflows**.
 
-🔍 **Audit Tools**
-Utilities for evidence, document processing, checking, and audit workflows.
+The idea is simple:
 
-📄 **Document Tools**
-OCR, PDF processing, extraction, conversion, merging, splitting, and organization.
+```text
+Find repetitive work
+        ↓
+Understand the workflow
+        ↓
+Automate the boring parts
+        ↓
+Ship a useful tool
+```
 
-⚙️ **Automation**
-Turning repetitive desktop workflows into simple, reusable tools.
+## `> things_i_build`
 
-🤖 **AI**
-Using AI where it actually removes manual work — not just adding AI for the sake of it.
+```text
+🧾  ACCOUNTING
+    ├── Financial data tools
+    ├── Excel automation
+    ├── Reconciliation
+    └── Bank statement processing
 
----
-
-## Stack
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,nextjs,react,nodejs,postgresql,git,github" />
-</p>
-
----
-
-## Projects
-
-> A growing collection of tools built around real-world financial workflows.
-
-**Coming soon.**
-
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=0xAdis&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&hide_title=true" height="165"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-`Build → Automate → Ship`
-
-</div>
+🔍  AUDIT
+    ├── Evidence workflows
+    ├── Document checking
+    ├── Vo
+```
