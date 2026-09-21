@@ -58,5 +58,81 @@ Ship a useful tool
 🔍  AUDIT
     ├── Evidence workflows
     ├── Document checking
-    ├── Vo
+    ├── Vouching utilities
+    └── Working paper automation
+
+📄  DOCUMENTS
+    ├── PDF processing
+    ├── OCR
+    ├── Data extraction
+    └── File conversion
+
+⚙️  AUTOMATION
+    ├── Local-first utilities
+    ├── Workflow automation
+    └── AI-assisted tools
 ```
+
+---
+
+## `> current_mode`
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=1800&pause=600&color=8B949E&center=true&vCenter=true&width=700&lines=Finding+boring+work;Automating+boring+work;Deleting+boring+work;Building+something+useful" />
+
+</div>
+
+---
+
+## `> toolbox`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,postgresql,git,github,vscode&perline=10" />
+
+</div>
+
+---
+
+## `> github_activity`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=0xAdis&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xAdis&layout=compact&theme=transparent&hide_border=true" height="170"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=0xAdis&theme=github-compact&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+## `> contribution.exe`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/0xAdis/0xAdis/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=twinkling&color=0:238636,50:161b22,100:0d1117" width="100%"/>
+
+### `sudo make something-useful`
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=0xAdis&label=SYSTEM+VISITS&color=58A6FF&style=for-the-badge" />
+
+</div>
